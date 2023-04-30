@@ -18,7 +18,7 @@
 
 * 💻 Currently working on Streamify2.0 and Music ML Project.
 
-* 📫 How to reach me: Telegram: [@kit4py](https://t.em/kit4py); Discord: [kit4py#5627](discordapp.com/users/kit4py#5627); Email: kit4py@gmail.com
+* 📫 How to reach me: Discord: [kit4py#5627](discordapp.com/users/kit4py#5627); Email: kit4py@gmail.com
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
